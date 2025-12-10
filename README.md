@@ -1,0 +1,2 @@
+# automagazin-project
+automagazin loyihasi
